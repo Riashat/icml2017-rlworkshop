@@ -1,4 +1,4 @@
-## Welcome to the ICML'2017 RL late breaking reasults event
+## Welcome to the ICML'2017 RL late breaking results event
 
 The workshop will contain presentations of late-breaking reinforcement learning results in all areas of the field, including deep reinforcement learning, exploration, transfer learning and using auxiliary tasks, theoretical result etc, as well as applications of reinforcement learning to various domains. A panel discussion on the most interesting and challenging current research directions will conclude the workshop.
 
