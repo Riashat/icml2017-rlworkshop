@@ -4,7 +4,7 @@ The workshop will contain presentations of late-breaking reinforcement learning 
 
 ### Draft list of presenters
 
-Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill), Lucas Lehnert (Brown), Alessandro Lazaric (INRIA), Katja Hofmann (Microsoft), Andrei Nica (Bucharest), Harm Van Seijn (Maluuba-Microsoft), Ahmed Touati (Univ. MNontreal)
+Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill), Lucas Lehnert (Brown), Alessandro Lazaric (INRIA), Katja Hofmann (Microsoft), Andrei Nica (Bucharest), Harm Van Seijn (Maluuba-Microsoft), Ahmed Touati (Univ. Montreal)
 
 ### Schedule
 
@@ -16,7 +16,7 @@ Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill)
 
 10:00am Coffee Break
 
-10:30am Harm Van Seijn (Maluuba-Microsoft) 
+10:30am Harm Van Seijn (Maluuba-Microsoft) - Achieving Above-Human Performance on Ms. Pac-Man by Reward Decomposition
 
 11:00am Alessandro Lazaric (INRIA) - Explorartion methods for options
 
@@ -24,7 +24,7 @@ Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill)
 
 12:00pm Lunch Break
 
-1:30pm Katja Hoffman (Microsoft) - title TBC
+1:30pm Katja Hoffman (Microsoft) - TBC
 
 2:00pm Riashat Islam (McGill) - On the reproducibility of policy gradient experiments
 
@@ -32,7 +32,7 @@ Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill)
 
 2:40pm Ahmed Touati (Univ. Montreal) - On the convergence of Treew backup and other reinforcement leaenring algorithms
 
-3:00pm Panel discussion
+3:00pm Panel discussion: B. Ravindran, Chelsea Finn, Alessandro Lazaric others TBC
 
 4:00pm Coffee Break
 
