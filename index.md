@@ -4,7 +4,30 @@ The workshop will contain presentations of late-breaking reinforcement learning 
 
 ### Draft list of presenters
 
-Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill), Lucas Lehnert (Brown), Alessandro Lazaric (INRIA), Marc Bellemare (DeepMind), Katja Hofmann (Microsoft), Andrei Nica (Bucharest), Junhyuk Oh (U. Michigan), Harm Van Seijn (Maluuba-Microsoft), Jason Pazis (Amazon), Ahmed Touati (Univ. MNontreal)
+Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill), Lucas Lehnert (Brown), Alessandro Lazaric (INRIA), Katja Hofmann (Microsoft), Andrei Nica (Bucharest), Harm Van Seijn (Maluuba-Microsoft), Ahmed Touati (Univ. MNontreal)
+
+### Schedule
+
+8:45am Opening remarks
+9:00am Balaraman Ravindran (IIT Madras)
+9:35am - Chelsea Finn (Berkeley)
+
+10:00am Coffee Break
+
+10:30am Harm Van Seijn (Maluuba-Microsoft) 
+11:00am Alessandro Lazaric (INRIA) - Explorartion methods for options
+11:30am Ruishan Liu (Stanford) - The Effects of Memory reply in reinforcement leanring
+
+12:00pm Lunch Break
+
+1:30pm Katja Hoffman (Microsoft) - title TBC
+2:00pm Riashat Islam (McGill) - On the reproducibility of policy gradient experiments
+2:20pm Andrei Nica and Tudor Berariu (Romania) - Reinforcement learning for the MALMO Minecraft challenge
+2:40pm Ahmed Touati (Univ. Montreal) - On the convergence of Treew backup and other reinforcement leaenring algorithms
+
+3:00pm Panel discussion
+
+4:00pm Coffee Break
 
 If you have new reinforcement learning results that you would like to share with us, please email dprecup@cs.mcgill.ca 
 
