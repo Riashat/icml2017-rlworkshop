@@ -24,7 +24,7 @@ Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill)
 
 12:00pm Lunch Break
 
-1:30pm Katja Hoffman (Microsoft) - TBC
+1:30pm Mat Monfort (MIT & Microsoft) - Deep DAGGER
 
 2:00pm Riashat Islam (McGill) - On the reproducibility of policy gradient experiments
 
@@ -32,7 +32,7 @@ Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill)
 
 2:40pm Ahmed Touati (Univ. Montreal) - On the convergence of Treew backup and other reinforcement leaenring algorithms
 
-3:00pm Panel discussion: B. Ravindran, Chelsea Finn, Alessandro Lazaric others TBC
+3:00pm Panel discussion: B. Ravindran, Chelsea Finn, Alessandro Lazaric, Katja Hofmann
 
 4:00pm Coffee Break
 
