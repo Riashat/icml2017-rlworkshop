@@ -1,6 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to the ICML'2017 RL late breaking reasults event
 
-You can use the [editor on GitHub](https://github.com/rllabmcgill/icml2017-rlworkshop/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The workshop will contain presentations of late-breaking reinforcement learning results in all areas of the field, including deep reinforcement learning, exploration, transfer learning and using auxiliary tasks, theoretical result etc, as well as applications of reinforcement learning to various domains. A panel discussion on the most interesting and challenging current research directions will conclude the workshop.
+
+### Draft list of presenters
+
+Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill), Lucas Lehnert (Brown), Alessandro Lazaric (INRIA), Marc Bellemare (DeepMind), Katja Hofmann (Microsoft), Andrei Nica (Bucharest), Junhyuk Oh (U. Michigan), Harm Van Seijn (Maluuba-Microsoft), Jason Pazis (Amazon)
+
+If you have new reinforcement learning results that you would like to share with us, please email dprecup@cs.mcgill.ca 
+
+
+
+<!-- You can use the [editor on GitHub](https://github.com/rllabmcgill/icml2017-rlworkshop/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -34,4 +44,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.-->
