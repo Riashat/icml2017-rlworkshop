@@ -4,7 +4,7 @@ The workshop will contain presentations of late-breaking reinforcement learning 
 
 ### Draft list of presenters
 
-Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill), Lucas Lehnert (Brown), Alessandro Lazaric (INRIA), Marc Bellemare (DeepMind), Katja Hofmann (Microsoft), Andrei Nica (Bucharest), Junhyuk Oh (U. Michigan), Harm Van Seijn (Maluuba-Microsoft), Jason Pazis (Amazon)
+Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill), Lucas Lehnert (Brown), Alessandro Lazaric (INRIA), Marc Bellemare (DeepMind), Katja Hofmann (Microsoft), Andrei Nica (Bucharest), Junhyuk Oh (U. Michigan), Harm Van Seijn (Maluuba-Microsoft), Jason Pazis (Amazon), Ahmed Touati (Univ. MNontreal)
 
 If you have new reinforcement learning results that you would like to share with us, please email dprecup@cs.mcgill.ca 
 
