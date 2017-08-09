@@ -8,11 +8,11 @@ Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill)
 
 ### Schedule
 
-8:45am Opening remarks
+8:45am Opening remarks (Doina Precup)
 
-9:00am Balaraman Ravindran (IIT Madras)
+9:00am Balaraman Ravindran (IIT Madras) - Some experiments with learning hyperparameters,  transfer, and multi-task leaning
 
-9:35am - Chelsea Finn (Berkeley)
+9:35am Chelsea Finn (Berkeley)
 
 10:00am Coffee Break
 
