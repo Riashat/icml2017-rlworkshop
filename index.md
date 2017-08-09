@@ -16,11 +16,11 @@ Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill)
 
 10:00am Coffee Break
 
-10:30am Harm Van Seijn (Maluuba-Microsoft) - Achieving Above-Human Performance on Ms. Pac-Man by Reward Decomposition
+10:30am Harm Van Seijen (Maluuba-Microsoft) - Achieving Above-Human Performance on Ms. Pac-Man by Reward Decomposition
 
 11:00am Alessandro Lazaric (INRIA) - Explorartion methods for options
 
-11:30am Ruishan Liu (Stanford) - The effects of memory reply in reinforcement learning
+11:30am Ruishan Liu (Stanford) - The effects of memory replay in reinforcement learning
 
 12:00pm Lunch Break
 
