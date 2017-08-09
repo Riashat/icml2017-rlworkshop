@@ -10,7 +10,7 @@ Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill)
 
 8:45am Opening remarks (Doina Precup)
 
-9:00am Balaraman Ravindran (IIT Madras) - Some experiments with learning hyperparameters,  transfer, and multi-task leaning
+9:00am Balaraman Ravindran (IIT Madras) - Some experiments with learning hyperparameters,  transfer, and multi-task learning
 
 9:35am Chelsea Finn (Berkeley)
 
@@ -30,7 +30,7 @@ Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill)
 
 2:20pm Tudor Berariu (Universitatea Politehnica bucharest and Bitdefender, Romania) - Reinforcement learning for the MALMO Minecraft challenge
 
-2:40pm Ahmed Touati (Univ. Montreal) - On the convergence of Treew backup and other reinforcement leaenring algorithms
+2:40pm Ahmed Touati (Univ. Montreal) - On the convergence of Tree backup and other reinforcement learning algorithms
 
 3:00pm Panel discussion: B. Ravindran (IIT Madras), Chelsea Finn (Berkeley), Alessandro Lazaric (INRIA), Katja Hofmann (Microsoft Research), Marc Bellemare (Google)
 
