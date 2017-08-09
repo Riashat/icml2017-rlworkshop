@@ -20,7 +20,7 @@ Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill)
 
 11:00am Alessandro Lazaric (INRIA) - Explorartion methods for options
 
-11:30am Ruishan Liu (Stanford) - The Effects of Memory reply in reinforcement leanring
+11:30am Ruishan Liu (Stanford) - The effects of memory reply in reinforcement learning
 
 12:00pm Lunch Break
 
