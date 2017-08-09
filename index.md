@@ -32,7 +32,7 @@ Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill)
 
 2:40pm Ahmed Touati (Univ. Montreal) - On the convergence of Treew backup and other reinforcement leaenring algorithms
 
-3:00pm Panel discussion: B. Ravindran (IIT Madras), Chelsea Finn (Berkeley), Alessandro Lazaric (INRIA), Katja Hofmann (Microsoft Research), Marc Bellemare (Google DeepMind)
+3:00pm Panel discussion: B. Ravindran (IIT Madras), Chelsea Finn (Berkeley), Alessandro Lazaric (INRIA), Katja Hofmann (Microsoft Research), Marc Bellemare (Google)
 
 4:00pm Coffee Break
 
