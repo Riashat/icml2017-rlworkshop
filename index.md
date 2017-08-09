@@ -4,7 +4,7 @@ The workshop will contain presentations of late-breaking reinforcement learning 
 
 ### Draft list of presenters
 
-Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill), Lucas Lehnert (Brown), Alessandro Lazaric (INRIA), Katja Hofmann (Microsoft), Andrei Nica (Bucharest), Harm Van Seijn (Maluuba-Microsoft), Ahmed Touati (Univ. Montreal)
+Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill), Lucas Lehnert (Brown), Alessandro Lazaric (INRIA), Katja Hofmann (Microsoft), Tudor Berariu and Andrei Nica (Bucharest), Harm Van Seijn (Maluuba-Microsoft), Ahmed Touati (Univ. Montreal)
 
 ### Schedule
 
