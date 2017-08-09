@@ -24,11 +24,11 @@ Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill)
 
 12:00pm Lunch Break
 
-1:30pm Mat Monfort (MIT & Microsoft) - Deep DAGGER
+1:30pm Mat Monfort (MIT & Microsoft) - Deep DAGGER (TBC)
 
 2:00pm Riashat Islam (McGill) - On the reproducibility of policy gradient experiments
 
-2:20pm Andrei Nica and Tudor Berariu (Romania) - Reinforcement learning for the MALMO Minecraft challenge
+2:20pm Tudor Berariu (Universitatea Politehnica bucharest and Bitdefender, Romania) - Reinforcement learning for the MALMO Minecraft challenge
 
 2:40pm Ahmed Touati (Univ. Montreal) - On the convergence of Treew backup and other reinforcement leaenring algorithms
 
