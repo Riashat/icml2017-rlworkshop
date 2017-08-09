@@ -12,7 +12,7 @@ Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill)
 
 9:00am Balaraman Ravindran (IIT Madras) - Some experiments with learning hyperparameters,  transfer, and multi-task learning
 
-9:35am Chelsea Finn (Berkeley)
+9:35am Chelsea Finn (Berkeley) - Deep predictive learning for acquiring vision-based skills
 
 10:00am Coffee Break
 
@@ -24,17 +24,19 @@ Balaraman Ravindran (IIT Madras), Ruishan Liu (Stanford), Riashat Islam (McGill)
 
 12:00pm Lunch Break
 
-1:30pm Mat Monfort (MIT & Microsoft) - Deep DAGGER (TBC)
+1:30pm Mat Monfort (MIT & Microsoft) - Asynchronous data aggregation for training end-to-end visual control networks
 
-2:00pm Riashat Islam (McGill) - On the reproducibility of policy gradient experiments
+1:50pm Riashat Islam (McGill) - On the reproducibility of policy gradient experiments
 
-2:20pm Tudor Berariu (Universitatea Politehnica bucharest and Bitdefender, Romania) - Reinforcement learning for the MALMO Minecraft challenge
+2:10pm Tudor Berariu (Universitatea Politehnica bucharest and Bitdefender, Romania) - Reinforcement learning for the MALMO Minecraft challenge
 
-2:40pm Ahmed Touati (Univ. Montreal) - On the convergence of Tree backup and other reinforcement learning algorithms
+2:30pm Ahmed Touati (Univ. Montreal) - On the convergence of tree backup and other reinforcement learning algorithms
 
-3:00pm Panel discussion: B. Ravindran (IIT Madras), Chelsea Finn (Berkeley), Alessandro Lazaric (INRIA), Katja Hofmann (Microsoft Research), Marc Bellemare (Google)
+2:50pm Lucas Lehnert (Brown Univ.) - Transfer learning using successor state features
 
-4:00pm Coffee Break
+3:10pm Coffee Break
+
+3:30pm Panel discussion: B. Ravindran (IIT Madras), Chelsea Finn (Berkeley), Alessandro Lazaric (INRIA), Katja Hofmann (Microsoft Research), Marc Bellemare (Google)
 
 If you have new reinforcement learning results that you would like to share with us, please email dprecup@cs.mcgill.ca 
 
